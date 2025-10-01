@@ -9,7 +9,7 @@ public class Lab018_Numerics_Data_Types {
 
 
         long phone = 9245784512L;
-                long phone = 7896254145l;
+                long phone1 = 7896254145l;
 
         float f = 3.14f;
         float f2 = 3.14F;

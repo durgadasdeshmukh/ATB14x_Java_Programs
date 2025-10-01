@@ -8,6 +8,5 @@ public class Lab019_constants {
 
         final int b = 99;
 //         b = 100;        java: cannot assign a value to final variable b
-
-    }
+}
 }
