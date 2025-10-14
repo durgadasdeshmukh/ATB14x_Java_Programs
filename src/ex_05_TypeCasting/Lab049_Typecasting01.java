@@ -9,6 +9,9 @@ public class Lab049_Typecasting01 {
         System.out.println(s);
 
 
+
+
+
     }
 
 
